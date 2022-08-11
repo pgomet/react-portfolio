@@ -13,3 +13,5 @@ Create a single-page application portfolio where you can share your projects
 - There is a contact form with fields for a name, email address, and a message
 - In the "Resume" section, there is a link to a downloadable resume and a list of the developer's proficiencies
 - In the "Footer" section, there is a text or icon linked to the developer's GitHub, LinkedIn profiles, or any other third platform they may have (Stack Overflow, Twitter)
+
+## Assets
